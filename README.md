@@ -6,7 +6,7 @@ For instructions on how to participate in discussion see the [particpating in a 
 
 # Other NWB Channels
 
-* Join the [NWB Slack](https://join.slack.com/t/nwb-users/shared_invite/enQtNzMwOTcwNzQ2MDM5LWMyZDUwODJjYjM3MzMzYzZiNDk4ZTU3ZjQ3MmMxMmY5MDUyNzc0ZDI5ZjViYmJjYTQ5NjljOGFjZmMwOGIwZmQ) channel
+* Join the [NWB Slack](https://nwb-users.slack.com/join/shared_invite/zt-9bsx3xdj-wtUILLNzM8a0mOV_RywS~Q#/shared-invite/email) channel
 * Joint the [NWB Mailing List](https://mailchi.mp/fe2a9bc55a1a/nwb-signup)
 * Visit NWB on [Twitter](https://twitter.com/neurodatawb)
 * Visit the NWB [YouTube](https://www.youtube.com/c/NeurodataWithoutBorders/videos) channel
