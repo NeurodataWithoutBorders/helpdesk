@@ -1,6 +1,9 @@
 # NWB Helpdesk
 
-The [NWB helpdesk](https://github.com/NeurodataWithoutBorders/helpdesk/discussions) is a collaborative communication forum for the NWB community. Visit the [NWB Helpdesk Discussion Forum](https://github.com/NeurodataWithoutBorders/helpdesk/discussions) to ask and answer questions, submit ideas and make announcements to the community, have general discussions around NWB with the community, or show and tell about your results and experiences with NWB.  
+The [NWB helpdesk](https://github.com/NeurodataWithoutBorders/helpdesk/discussions) is a collaborative communication forum for the NWB community. Visit the [NWB Helpdesk Discussion Forum](https://github.com/NeurodataWithoutBorders/helpdesk/discussions) to ask and answer questions, submit ideas and make announcements to the community, have general discussions around NWB with the community, or show and tell about your results and experiences with NWB.
+
+![discussions_link_image](https://github.com/NeurodataWithoutBorders/helpdesk/assets/844306/d380cc06-78f2-495e-b2c3-68fd6013af41)
+
 
 For instructions on how to participate in discussion see the [particpating in a discussion](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion) help docs. 
 
